@@ -122,13 +122,13 @@ export class PostPreviewButton extends Component {
 				.editor-post-preview-button__interstitial-message svg .outer {
 					stroke-dasharray: 280;
 					stroke-dashoffset: 280;
-					animation: paint 3s ease infinite;
+					animation: paint 1.5s ease infinite;
 					animation-direction: alternate;
 				}
 				.editor-post-preview-button__interstitial-message svg .inner {
 					stroke-dasharray: 280;
 					stroke-dashoffset: 280;
-					animation: paint 3s ease infinite;
+					animation: paint 1.5s ease infinite;
 					animation-direction: alternate;
 				}
 				p {
